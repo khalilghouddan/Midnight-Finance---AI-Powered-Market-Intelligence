@@ -6,7 +6,7 @@ import kotlinx.coroutines.withContext
 
 object GeminiApiImpl {
     // TODO: Replace with your actual Gemini API Key from https://aistudio.google.com/
-    private const val API_KEY = "AIzaSyDaIT278D-S9mbXpPUxyN0BzPdAkbt0PIo"
+    private const val API_KEY = "A----------------------------------"
     private const val BASE_URL = "https://generativelanguage.googleapis.com/"
 
     private val apiService: GeminiApiService by lazy {

@@ -7,7 +7,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 object GNewsApiImpl {
     private const val BASE_URL = "https://gnews.io/api/v4/"
-    private const val API_KEY = "4c1328c92762842afdf399e4d80e6fd2"
+    private const val API_KEY = "___________________________________"
 
     private val apiService: GNewsApiService by lazy {
         Retrofit.Builder()
