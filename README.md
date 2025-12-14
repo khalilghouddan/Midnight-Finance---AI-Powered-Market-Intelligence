@@ -6,7 +6,12 @@
 
 ## 🎥 App Demo
 
-[![Demo Video](https://github.com/khalilghouddan/Midnight-Finance---AI-Powered-Market-Intelligence/blob/main/Screenshot%202025-12-14%20174528.png)](https://drive.google.com/file/d/1_3oE9GyK3rIoMHGHD0MkxqHVQoAGHqvT/view?usp=sharing)
+
+<a href="https://drive.google.com/file/d/1_3oE9GyK3rIoMHGHD0MkxqHVQoAGHqvT/view?usp=sharing">
+  <img src="https://github.com/khalilghouddan/Midnight-Finance---AI-Powered-Market-Intelligence/blob/main/Screenshot%202025-12-14%20174528.png"
+       alt="Demo Video"
+       width="300">
+</a>
 
 
 
